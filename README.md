@@ -387,35 +387,6 @@ GPU利用率     | 0%         | 85%        | ∞
 
 ---
 
-##  贡献指南
-
-### 开发环境设置
-```bash
-# 1. Fork项目
-# 2. 克隆到本地
-git clone <your-fork-url>
-
-# 3. 创建开发分支
-git checkout -b feature/your-feature
-
-# 4. 安装开发依赖
-pip install -r requirements-dev.txt
-
-# 5. 运行测试
-pytest tests/
-
-# 6. 提交代码
-git commit -m "feat: add your feature"
-git push origin feature/your-feature
-```
-
-### 代码规范
-- 遵循PEP 8 Python代码规范
-- 添加类型注解
-- 编写单元测试
-- 更新文档
-
----
 
 ##  许可证
 
