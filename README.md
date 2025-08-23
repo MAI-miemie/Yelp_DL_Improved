@@ -191,7 +191,7 @@ python main.py
 
 ---
 
-## 📈 核心功能
+##  核心功能
 
 ### 1. 大规模数据训练
 - **支持10,000+样本**：远超原项目的11K商户限制
@@ -318,7 +318,7 @@ wandb.log({"loss": loss, "accuracy": accuracy})
 ### 本地部署
 ```bash
 # 1. 克隆项目
-git clone 
+git clone https://github.com/MAI-miemie/Yelp_DL_Improved.git
 
 
 # 2. 安装依赖
@@ -417,21 +417,21 @@ git push origin feature/your-feature
 
 ---
 
-## 📄 许可证
+##  许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
 ---
 
-## 📞 联系方式
+##  联系方式
 
 - **项目维护者**：MAI_HAICHENG
 - **邮箱**：18789935260@163.com
-- **项目地址**：[GitHub Repository]()
+- **项目地址**：[GitHub Repository](https://github.com/MAI-miemie/Yelp_DL_Improved)
 
 ---
 
-## 🙏 致谢
+##  致谢
 
 感谢以下开源项目和社区的支持：
 - [PyTorch](https://pytorch.org/) - 深度学习框架
